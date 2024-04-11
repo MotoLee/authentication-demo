@@ -1,3 +1,9 @@
 {
-   "login":"token123123123"
+   "title": "The Catcher in the Rye",
+   "author": "J.D. Salinger",
+   "genre": "Fiction",
+   "date": "July 16, 1951",
+   "rating": 4,
+   "isbn": "0316769487",
+   "login": "ABC"
 }
