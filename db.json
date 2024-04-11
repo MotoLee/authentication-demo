@@ -1,5 +1,7 @@
 {
-   "title": "The Catcher in the Rye",
-   "isbn": "0316769487",
-   "login": "ABC"
+   "login": {
+   	"user_id":"aae772af-fc1b-48d6-86df-f9c8788f727b",
+   	"display_name":"Daniel Craig",
+   	"token":"eJ9yq9vcJ1jXJX8"
+   }
 }
